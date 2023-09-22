@@ -21,6 +21,8 @@ table{
 }
 img{
     border-style: double; border: 2;
+    height: 120px;
+    width: 120px;
 }
 h1{
     background-color: aqua; color: crimson;
@@ -29,7 +31,7 @@ h1{
     text-align: center;
     color: Red;
     font-size: 40px;
-    font-family: fantasy;
+    font-family: Fantasy;
 }
 .Mil:hover{
     color: skyblue;
